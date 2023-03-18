@@ -1,0 +1,24 @@
+.header {
+  background-image: linear-gradient(
+    to right,
+    rgba(103, 34, 128, 1),
+    rgba(166, 38, 211, 1)
+  );
+  height: 65px;
+  display: flex;
+  color: #ffffff;
+  align-items: center;
+  padding: 20px;
+}
+.troll {
+  margin-right: 6px;
+  height: 100%;
+}
+h1 {
+  font-size: 1.25rem;
+  margin-right: auto;
+}
+h3 {
+    font-size: .75rem;
+    font-weight: 500;
+}
